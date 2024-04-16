@@ -1,0 +1,82 @@
+{
+    "upperContainerData": {
+      "header": "Хотите Шагнуть в Будущее Раньше Других?",
+      "cta": "Запросить ранний доступ",
+      "href": "#"
+    },
+    "leftLowerContainerData": {
+      "img": {
+        "src": "assets/img/logo.svg",
+        "alt": "GPT-4"
+      },
+      "adress": {
+        "street": "ул. Профессора Поздеева, 13.к.Г,",
+        "city": "Пермь, Пермский край, 614013"
+      },
+      "reservedRights": "Все права защищены"
+    },
+    "subHrefData": [
+      {
+        "title": "Овероны",
+        "href": "#"
+      },
+      {
+        "title": "Соц. сети",
+        "href": "#"
+      },
+      {
+        "title": "Счетчики",
+        "href": "#"
+      },
+      {
+        "title": "Контакты",
+        "href": "#"
+      }
+    ],
+    "subCompanyData": [
+      {
+        "title": "Условия использования",
+        "href": "#"
+      },
+      {
+        "title": "Перс. данные",
+        "href": "#"
+      },
+      {
+        "title": "Конаткты",
+        "href": "#"
+      }
+    ],
+    "subContactsData": [
+      {
+        "title": "ул. Профессора Поздеева, 13, к.Г, Пермь",
+        "href": ""
+      },
+      {
+        "title": "+7 (342) 2-198-520",
+        "href": ""
+      },
+      {
+        "title": "info@pstu.ru",
+        "href": ""
+      }
+    ],
+    "rightLowerContainerData": [
+      {
+        "header": "Ссылки",
+        "sub": "subHrefData"
+      },
+      {
+        "header": "Компания",
+        "sub": "subCompanyData"
+      },
+      {
+        "header": "Контакты",
+        "sub": "subContactsData"
+      }
+    ],
+    "licenseData": {
+      "title": "© 2023 GPT-4. Все права защищены."
+    }
+  }
+  
